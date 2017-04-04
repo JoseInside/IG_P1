@@ -1,0 +1,26 @@
+﻿  TriAnimado.cpp
+  Triangulo.cpp
+c:\users\skullatt\desktop\ig_p1\hola\triangulo.cpp(37): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\skullatt\desktop\ig_p1\hola\triangulo.cpp(38): warning C4154: deletion of an array expression; conversion to pointer supplied
+  tipos.cpp
+  Textura.cpp
+  Rectangulo.cpp
+c:\users\skullatt\desktop\ig_p1\hola\rectangulo.h(19): warning C4154: deletion of an array expression; conversion to pointer supplied
+  PixMap24RGB.cpp
+c:\users\skullatt\desktop\ig_p1\hola\pixmap24rgb.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\skullatt\desktop\ig_p1\hola\pixmap24rgb.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\skullatt\desktop\ig_p1\hola\pixmap24rgb.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\skullatt\desktop\ig_p1\hola\pixmap24rgb.cpp(278): warning C4018: '<': signed/unsigned mismatch
+  PiramideTri.cpp
+  main.cpp
+c:\users\skullatt\desktop\ig_p1\hola\rectangulo.h(19): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\skullatt\desktop\ig_p1\hola\main.cpp(67): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\skullatt\desktop\ig_p1\hola\main.cpp(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  escena.cpp
+c:\users\skullatt\desktop\ig_p1\hola\rectangulo.h(19): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\skullatt\desktop\ig_p1\hola\escena.cpp(38): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\skullatt\desktop\ig_p1\hola\escena.cpp(40): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+  Generating Code...
+c:\users\skullatt\desktop\ig_p1\hola\textura.cpp(31): warning C4715: 'Textura::load': not all control paths return a value
+  Hola.vcxproj -> C:\Users\Skullatt\Desktop\IG_P1\bin\HolaDebug.exe
+  Hola.vcxproj -> C:\Users\Skullatt\Desktop\IG_P1\bin\HolaDebug.pdb (Full PDB)
